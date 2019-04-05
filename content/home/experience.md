@@ -18,27 +18,56 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Computer Science Postdoctoral Researcher"
+  company = "Data Science &amp; Technology Dept, Lawrence Berkeley National Lab"
+  company_url = "https://crd.lbl.gov/departments/data-science-and-technology/"
+  location = "Berkeley, California"
+  date_start = "2017-08-14"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  # description = """ TBD """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Postdoctoral Researcher &amp; Laboratory Manager"
+  company = "Computer Supported Collaboration Laboratory, HCDE"
+  company_url = "https://depts.washington.edu/csclab"
+  location = "Seattle, Washington"
+  date_start = "2016-10-01"
+  date_end = "2017-07-31"
+  # description = """TBD"""
 
+[[experience]]
+  title = "Graduate Research Assistant &amp; Laboratory Manager"
+  company = "Computer Supported Collaboration Laboratory, HCDE"
+  company_url = "https://depts.washington.edu/csclab"
+  location = "Seattle, Washington"
+  date_start = "2010-09-30"
+  date_end = "2016-08-31"
+  # description = """TBD"""
+
+[[experience]]
+  title = "Graduate Research Assistant"
+  company = "Laboratory for Human-Centered Engineering Education (LHCEE), HCDE"
+  # company_url = "https://depts.washington.edu/csclab"
+  location = "Seattle, Washington"
+  date_start = "2011-06-01"
+  date_end = "2015-06-30"
+  # description = """TBD"""
+
+[[experience]]
+  title = "Teaching Assistant"
+  company = "Human Centered Design &amp; Engineering"
+  company_url = "https://hcde.uw.edu"
+  location = "Seattle, Washington"
+  date_start = "2012-03-01"
+  date_end = "2012-06-15"
+  # description = """TBD"""
+
+  [[experience]]
+    title = "Laboratory Instructore"
+    company = "University of Washington College of Engineering STEM Bridge Program"
+    # company_url = "https://hcde.uw.edu"
+    location = "Seattle, Washington"
+    date_start = "2012-08-01"
+    date_end = "2012-08-15"
+    # description = """TBD"""
 +++
